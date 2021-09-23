@@ -10,8 +10,8 @@ const allTokens = () => {
     let allTokens = []
     let protocols = 0;
     getDirectories(__dirname).forEach(protocol => {
+        console.log(`Compiling ${protocol} list`);
         protocols++;
-        console.log(protocols);
         let data = JSON.parse(fs.readFileSync(`${__dirname}/${protocol}/tokens.json`));
         let tokens = data.tokens;
         let chainId = data.chainId;
