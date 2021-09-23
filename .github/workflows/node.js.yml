@@ -18,4 +18,4 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - run: node tokens/compile.js
+    - run: node ./tokens/compile.js
