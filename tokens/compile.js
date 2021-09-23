@@ -19,7 +19,7 @@ const allTokens = () => {
         allTokens.push(...[...buildTokens]);
         if (protocols === getDirectories(__dirname).length) {
             let jsonData = JSON.stringify({
-                "name": "All Tokens Blacklist",
+                "name": "All Tokens",
                 "updated": new Date(Number(new Date())).toDateString(),
                 "tokens": allTokens
             }, null, 2)
