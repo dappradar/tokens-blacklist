@@ -1,10 +1,6 @@
 'use strict';
 const fs = require('fs');
 
-// let rawdata = fs.readFileSync('student.json');
-// let student = JSON.parse(rawdata);
-
-
 const getDirectories = source =>
     fs.readdirSync(source, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
@@ -26,7 +22,7 @@ const allTokens = () => {
                 "name": "All Tokens Blacklist",
                 "updated": Date.now(),
                 "tokens": allTokens
-            })
+            }, null, 2)
             fs.writeFileSync('all-tokens.json', jsonData);
         }
     })
