@@ -22,7 +22,7 @@ jobs:
     - uses: actions/setup-node@v2
     - run: node ./tokens/compile.js
     - name: Push changes
-      uses: dappradar/tokens-blacklist@main
+      uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
