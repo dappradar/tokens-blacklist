@@ -20,7 +20,7 @@ const allTokens = () => {
         if (protocols === getDirectories(__dirname).length) {
             let jsonData = JSON.stringify({
                 "name": "All Tokens Blacklist",
-                "updated": Date.now(),
+                "updated": new Date(Number(new Date())).toDateString(),
                 "tokens": allTokens
             }, null, 2)
             fs.writeFileSync('all-tokens.json', jsonData);
