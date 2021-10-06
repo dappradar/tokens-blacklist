@@ -20,6 +20,7 @@ const allTokens = () => {
         if (protocols === getDirectories(__dirname).length) {
             let jsonData = JSON.stringify({
                 "name": "All Tokens Blacklist",
+                "description": "This file is auto-generated when new tokens are added to specific protocols",
                 "updated": new Date().toISOString(),
                 "tokens": allTokens
             }, null, 2)
