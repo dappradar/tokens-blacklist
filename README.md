@@ -6,6 +6,6 @@
 3. Edit `tokens.json` and add the token address to the `tokens` array (make sure the token is not already in the list)
 4. Commit & Push the changes
 
-#File with all the tokens and protocols
+# All Tokens
 File `all-tokens.json` is generated automatically by GitHub Actions after new tokens are added to specific protocols.
 
