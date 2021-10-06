@@ -1,6 +1,6 @@
 {
   "name": "All Tokens Blacklist",
-  "updated": "2021-09-23T15:38:31.932Z",
+  "updated": "2021-10-06T06:44:25.447Z",
   "tokens": [
     {
       "address": "0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf",
@@ -68,6 +68,10 @@
     },
     {
       "address": "0x119e2ad8f0c85c6f61afdf0df69693028cdc10be",
+      "chainId": "56"
+    },
+    {
+      "address": "0x442b656f5a5c3dd09790951810c5a15ea5295b51",
       "chainId": "56"
     },
     {
