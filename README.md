@@ -9,3 +9,6 @@
 # All Tokens
 File `all-tokens.json` is generated automatically by GitHub Actions after new tokens are added to specific protocols.
 
+# Where is this used?
+This repository is used to remove scam tokens from user's portfolios at https://dappradar.com/hub/wallet
+If you see a scam token in your wallet, please add it to the list or report it in our Telegram or Discord.
