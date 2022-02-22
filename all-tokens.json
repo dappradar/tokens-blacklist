@@ -1,7 +1,7 @@
 {
   "name": "All Tokens Blacklist",
   "description": "This file is auto-generated when new tokens are added to specific protocols",
-  "updated": "2022-02-10T16:04:15.211Z",
+  "updated": "2022-02-22T11:07:58.381Z",
   "tokens": [
     {
       "address": "0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf",
@@ -869,6 +869,122 @@
     },
     {
       "address": "0xe218ae707e7aa0c138f7a44bcd89e79616e7430d",
+      "chainId": "1"
+    },
+    {
+      "address": "0x4b4d206dc79c4a9c5a7e20787dd63648eb7fa8c1",
+      "chainId": "1"
+    },
+    {
+      "address": "0xed704e11d975a966b4edcc5780a2e8955c536fa0",
+      "chainId": "1"
+    },
+    {
+      "address": "0x2f2b771c4be85812577936871bb42407de9560ad",
+      "chainId": "1"
+    },
+    {
+      "address": "0x288c72aab7e6d1f688964c95404bc34dc0978528",
+      "chainId": "1"
+    },
+    {
+      "address": "0x566fa3a666f4a5036bb598f6364e3f50c2066179",
+      "chainId": "1"
+    },
+    {
+      "address": "0x60992cb28140c1ef341bafa898619d31cff41146",
+      "chainId": "1"
+    },
+    {
+      "address": "0x3235d65afc88f09d7fbfe1b9893b5133b92f8a72",
+      "chainId": "1"
+    },
+    {
+      "address": "0x06105911fc7322abf1bae4f5844bb0834992e62a",
+      "chainId": "1"
+    },
+    {
+      "address": "0x9edd51fd463894dcfc350bd5c1ffac3715488cab",
+      "chainId": "1"
+    },
+    {
+      "address": "0xa098c8749c3765d677216fe1ebe7dbf9f1acc232",
+      "chainId": "1"
+    },
+    {
+      "address": "0x667b3c07fc27344e27461f52d12965fed5013b09",
+      "chainId": "1"
+    },
+    {
+      "address": "0xe1fc8660a816c199898e04c6dfb4631032589765",
+      "chainId": "1"
+    },
+    {
+      "address": "0x1cf0b4989ad877438aa2e7804192e2ae83a94081",
+      "chainId": "1"
+    },
+    {
+      "address": "0xae0e413d12299311dbfc821644177a0dea9dea9e",
+      "chainId": "1"
+    },
+    {
+      "address": "0x3b32c383218876eb1a34b3c38eacadeba172abac",
+      "chainId": "1"
+    },
+    {
+      "address": "0x28694f142abd24a7a32e65e1159b473950672aef",
+      "chainId": "1"
+    },
+    {
+      "address": "0xb45d101497ac9b3da54c30d3a30981f7fb6426c4",
+      "chainId": "1"
+    },
+    {
+      "address": "0x73885eb0da4ba8b061acf1bfc5ea7073b07ccea2",
+      "chainId": "1"
+    },
+    {
+      "address": "0x7e3cde5cd5693408172d5134361edad9ffdab782",
+      "chainId": "1"
+    },
+    {
+      "address": "0x5056c6beef00ccffff7f80e7f199e3349a7d3364",
+      "chainId": "1"
+    },
+    {
+      "address": "0x65a6040b4cd971a104e90982360286d7844b3aed",
+      "chainId": "1"
+    },
+    {
+      "address": "0xefb9c4f9e277b301d706ed342465d91cb149a03c",
+      "chainId": "1"
+    },
+    {
+      "address": "0x9fc499e6215f2aa51b61eae1cfffdf52418bf712",
+      "chainId": "1"
+    },
+    {
+      "address": "0x46fefbc51ef679bf10ba4976967520bc1613e4db",
+      "chainId": "1"
+    },
+    {
+      "address": "0xca72d8969705c201d0166ae7fce415dc1f7450ec",
+      "chainId": "1"
+    },
+    {
+      "address": "0x3020f6e2760ccf4f69ca4b80d6ea6159706281ec",
+      "chainId": "1"
+    },
+    {
+      "address": "0xefe1bbc0912b33b3a29660871b1f27dc8f3ed2fb",
+      "chainId": "1"
+    },
+    {
+      "address": "0x66492fc7b1d329065ba3d0985a68da1cb6dcbe8a",
+      "chainId": "1"
+    },
+    {
+      "address": "0x7292b56b27a1ffedb059088f61ef350d0b779a17",
       "chainId": "1"
     },
     {
