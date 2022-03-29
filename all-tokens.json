@@ -1,7 +1,7 @@
 {
   "name": "All Tokens Blacklist",
   "description": "This file is auto-generated when new tokens are added to specific protocols",
-  "updated": "2022-03-29T05:11:01.126Z",
+  "updated": "2022-03-29T05:14:08.575Z",
   "tokens": [
     {
       "address": "0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf",
@@ -3441,6 +3441,14 @@
     },
     {
       "address": "0xe5d89696d170a5af25d38ffb96b6539a0b537653",
+      "chainId": "1"
+    },
+    {
+      "address": "0x9783ce405c05443b533ea6ec7ede38fead5b0319",
+      "chainId": "1"
+    },
+    {
+      "address": "0x6e6e269b18434d1d988d94b25cda1cee60de4dce",
       "chainId": "1"
     },
     {
