@@ -1,7 +1,7 @@
 {
   "name": "All Tokens Blacklist",
   "description": "This file is auto-generated when new tokens are added to specific protocols",
-  "updated": "2022-04-04T07:58:44.892Z",
+  "updated": "2022-04-05T07:00:57.867Z",
   "tokens": [
     {
       "address": "0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf",
@@ -3617,6 +3617,46 @@
     },
     {
       "address": "0xb46c7f6c6d6ccb41e9841d5fa4b69b3e478647f8",
+      "chainId": "1"
+    },
+    {
+      "address": "0x035d818d51782671c06e56eef0476e77cfd3a1f7",
+      "chainId": "1"
+    },
+    {
+      "address": "0x37203e3d4372aea6205dbc6a1f77f596aa921894",
+      "chainId": "1"
+    },
+    {
+      "address": "0x6508e815a00790c6f61b1cdf189b12215f1d1755",
+      "chainId": "1"
+    },
+    {
+      "address": "0x7938e06b08132fb8281b475a239510d912be87ef",
+      "chainId": "1"
+    },
+    {
+      "address": "0x79e28533f36ed6adc19ecdd98ead6acb1e26a41e",
+      "chainId": "1"
+    },
+    {
+      "address": "0xad131a56c66d43d1be63eedf5e0937c52be9db66",
+      "chainId": "1"
+    },
+    {
+      "address": "0xb6008fdb3338c9ebf9ef4035b1ab91aa5fa0f055",
+      "chainId": "1"
+    },
+    {
+      "address": "0xc5a722ff544360aedc2661756349f5a217f3c2c8",
+      "chainId": "1"
+    },
+    {
+      "address": "0xedd6b61a2e060a6f3d701b6cdac05f80cac15d5a",
+      "chainId": "1"
+    },
+    {
+      "address": "0xf2c84aaa9374239f53132a0e90b47b6584bb8a35",
       "chainId": "1"
     },
     {
